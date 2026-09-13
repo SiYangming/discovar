@@ -1,0 +1,7 @@
+# 示例数据与发行包体积超过 GitHub 单文件 100 MiB 上限，改由 Release 52488 附件提供
+discovar-examples/
+discovardenovo-examples/
+*.tar.gz
+
+# macOS 系统文件
+.DS_Store
